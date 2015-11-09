@@ -14,5 +14,5 @@ System.out.println("7 船橋 太郎");
 System.out.println("8 船橋 太郎");
 System.out.println("9 船橋 太郎");
 System.out.println("10 船橋 太郎");
-}
+ }
 }
